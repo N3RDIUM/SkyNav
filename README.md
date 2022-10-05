@@ -1,2 +1,2 @@
-# StarHunter
+# SkyNav
 An astronomy software written in python.
